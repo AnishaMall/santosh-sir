@@ -1,0 +1,27 @@
+====================================
+              LAPTOP SHOP           
+   Kamalpokhari, Kathmandu          
+   Phone No: 014412345              
+====================================
+             ORDER INVOICE              
+====================================
+
+Order ID: 20230810_194827
+Date & Time: 2023-08-10 19:48:27
+Distributor: Dell
+
+
+Product Details:
+Laptop Name: xps 13
+Brand: XPS
+Quantity: 122
+
+
+Payment Details:
+Net Amount: $12.0
+VAT Amount: $1.56
+Gross Amount: $13.56
+
+====================================
+          THANK YOU FOR ORDERING!          
+====================================

@@ -1,0 +1,27 @@
+====================================
+              LAPTOP SHOP           
+   Kamalpokhari, Kathmandu          
+   Phone No: 014412345              
+====================================
+             CUSTOMER INVOICE              
+====================================
+
+Order ID: 20230810_195141
+Date & Time: 2023-08-10 19:51:41
+Customer: Shyam
+
+
+Product Details:
+Laptop Name: xps 13
+Brand:  XPS
+Quantity: 9
+
+
+Payment Details:
+Total Amount (without shipping): $0.8852459016393442
+Shipping Cost: $12.0
+Total Amount (with shipping): $12.885245901639344
+
+====================================
+          THANK YOU FOR SHOPPING!          
+====================================

@@ -1,0 +1,11 @@
+RTX 3060Dell XPS 15,     Dell, 1976.0, 15
+Alienware M15 R3,     Alienware, 2500.0, 24
+Acer Swift 7,     Acer, 1200.0, 12
+Apple MacBook Pro 16,     Apple, 3500.0, 8
+HP Spectre x360,     HP, 1700.0, 8
+Microsoft Surface Laptop 3,     Microsoft, 1500.0, 13
+Lenovo ThinkPad X1 Carbon,     Lenovo, 1600.0, 7
+Asus ROG Zephyrus G14,     Asus, 1900.0, 20
+LG Gram 17,     LG, 1800.0, 109
+dell,   12, 109.0909090909091, 11
+xps 13,  XPS, 0.09836065573770492, 113
